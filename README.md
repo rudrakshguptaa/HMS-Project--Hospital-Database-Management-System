@@ -108,12 +108,3 @@
 - Server: XAMPP with Apache2 and MySQL
 - Browser: Google Chrome 77.0+
 
----
-
-## 📬 Contact
-
-For feedback or suggestions, feel free to reach out via the ‘Contact’ page on the website.
-
----
-
-Let me know if you want this as a downloadable `.md` file or want me to help update your actual GitHub repo with this!
