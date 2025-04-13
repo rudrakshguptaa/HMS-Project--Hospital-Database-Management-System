@@ -1,7 +1,3 @@
-Sure! Here's a polished and rephrased version of your README file, optimized for GitHub:
-
----
-
 # 🏥 Hospital Management System  
 **A Web-Based Hospital Management System using PHP, MySQL, and Bootstrap**
 
